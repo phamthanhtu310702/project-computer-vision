@@ -10,3 +10,4 @@ Object Detection with Swin Transformer backbone
     - maximum mean discrepancy 
     - untrained auto encoder and BBSDs
 
+## References:
