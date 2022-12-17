@@ -2,12 +2,11 @@
 Object Detection with Swin Transformer backbone
 ## Techniques:
 - Transferring on pre-trained model
-- Backbone: Swin Transformers
+- Backbone: Swin Transformer/ Swinv2 Transformer
 ## Details:
-- DINO with SSL Swin backbone
+- Detr with pre-trained Swin backbone
 - Apply mflow + ray + optuna for model selection
 - Drift detector: 
     - maximum mean discrepancy 
     - untrained auto encoder and BBSDs
-- hellp
 ## References:
