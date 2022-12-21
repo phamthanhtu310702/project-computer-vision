@@ -131,3 +131,7 @@ dmypy.json
 # VS Code
 .vscode/
 .DS_Store
+
+#folder_paper
+paper
+

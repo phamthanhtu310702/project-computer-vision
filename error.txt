@@ -1,0 +1,2 @@
+RuntimeError: Given groups=1, weight of size [384, 384, 1, 1], expected input[1, 1, 768, 64] to have 384 channels, but got 1 channels instead
+[1, 64, 768] 64 patches with embedding dim = 768
